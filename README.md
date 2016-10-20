@@ -88,7 +88,7 @@
 [大头鬼](http://blog.csdn.net/lzyzsd/) | hi大头鬼hi 是阿里巴巴集团的一名 Android 工程师, 写了一系列RXJava 资料。
 [农民伯伯](http://over140.cnblogs.com/) | 资深博客写手，他的博客非常值得一看。
 [任玉刚](http://blog.csdn.net/singwhatiwanna) | 《安卓开发艺术探索》作者。
-[罗升阳](http://blog.csdn.net/Luoshengyang) | 老罗教学视频，大家都很熟悉了，最近有[RxJava系列](http://www.apkbus.com/thread-258419-1-1.html?_dsign=54c08d56)。
+[罗升阳](http://blog.csdn.net/Luoshengyang) | CSDN博客专家，《安卓系统源代码情景分析》。
 
 
 ##  微信公众号推荐
@@ -159,7 +159,7 @@
 
   名称  |   备注
   --------- | --------
-[瓣呀](https://github.com/forezp/banya) |  瓣呀，一个基于豆瓣API仿网易音乐的开源项目（本人写的，欢迎star）
+[瓣呀](https://github.com/forezp/banya) |  [瓣呀，一个基于豆瓣API仿网易音乐的开源项目（本人写的，欢迎star）](https://github.com/forezp/banya)
 [大象](https://github.com/Freelander/Elephant) |  一个第三放PHPHUB客户端
 [开发资料](http://www.jianshu.com/p/8c3898eed1bb) |  开发 Material Design+RxJava+Retrofit+MVP App 参考资料
 
@@ -186,7 +186,7 @@
 [Meizhi](https://github.com/drakeet/Meizhi) | 开发者是许晓峰(Drakeet), 该 app 是数据来自代码家干货网站 [gank.io](http://gank.io), 有很多开发者都纷纷为这网站做客户端 app, 因为代码家大神开放该网站的 Api, 更重要的是该网站每天除了有干货还有漂亮妹子看呢, 该 App 使用到的技术有 RxJava + Retrofit, 代码结构非常清晰, 值得一看的开源 App.
 [鲁班](https://github.com/Curzibn/Luban) | Android图片压缩工具，仿微信朋友圈压缩策略,一个优秀的压缩图片框架
 [ZhihuDailyPurify ](https://github.com/izzyleung/ZhihuDailyPurify) | 知乎日报·净化
-[瓣呀](https://github.com/forezp/banya) |  瓣呀，一个基于豆瓣API仿网易音乐的开源项目（本人写的，欢迎star）
+[瓣呀](https://github.com/forezp/banya) | [瓣呀，一个基于豆瓣API仿网易音乐的开源项目（本人写的，欢迎star）](https://github.com/forezp/banya)
 
 ## 开源库收集
 - [awesome-android-ui](https://github.com/wasabeef/awesome-android-ui)
