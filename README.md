@@ -197,6 +197,7 @@
 - [Android 开源项目汇总 ](https://github.com/Trinea/android-open-project)(Trinea 大神收集的)
 - [Android 开源项目源码分析 ](http://codekk.com/open-source-project-analysis)(在懂得使用这些开源项目同时, 也应该了解当中的原理)
 - [安卓巴士](http://www.apkbus.com/forum-417-1.html)
+- [看源社区](http://www.see-source.com/androidwidget/list.html)
 
 ## Android开发者杂志周刊
   周刊名 | 周刊简介
