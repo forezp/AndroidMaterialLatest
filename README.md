@@ -1,3 +1,14 @@
+<div>
+    <p align="center">
+        <img src="https://www.fangzhipeng.com/img/avatar.jpg" width="258" height="258"/>
+        <br>
+        扫码关注公众号有惊喜
+    </p>
+    <p align="center" style="margin-top: 15px; font-size: 11px;color: #cc0000;">
+        <strong>（转载本站文章请注明作者和出处 <a href="https://www.fangzhipeng.com">方志朋的博客</a>）</strong>
+    </p>
+</div>
+
 # Android 最新学习资料收集                                                        
 收集这份资料的灵感来源于我的浏览器收藏夹快爆了，后来在github 上也看到了很优秀的开源库的收集资料，非常的好，但是太过于多，也不够新，所以决定自己来做一个。原始的markdowm文件已经放到github上，欢迎[下载和star](https://github.com/forezp/AndroidMaterialLatest) 。这份资料我会不断的完善，也欢迎一些经验丰富的开发者可以一起来完善，直接[pull request](https://github.com/forezp/AndroidMaterialLatest/pulls) 或者[issue](https://github.com/forezp/AndroidMaterialLatest/issues)，我会定期筛选合并，有一些好的建议和意见随时[联系我](#联系我)，欢迎转载，谢谢收藏。
 ## 目录
